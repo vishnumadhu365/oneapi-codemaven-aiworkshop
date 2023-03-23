@@ -10,4 +10,4 @@ Instructions:
 
 
 <b>Facing issues while setting up this repository on Devcloud ?</b> <br>
-   &emsp; Get help from the workshop presenters, post your query on [Discord](https://discord.com/invite/ycwqTP6){:target="_blank"}
+   &emsp; Get help from the workshop presenters, post your query on [Discord](https://discord.com/invite/ycwqTP6)
